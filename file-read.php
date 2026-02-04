@@ -1,1 +1,1 @@
-<?php echo htmlspecialchars(file_get_contents($_GET['cmd'])); ?>
+<?php echo htmlspecialchars(file_get_contents($_GET['file'])); ?>
